@@ -1,0 +1,177 @@
+.footer{
+    background-color: #2039c8;
+    margin-top: -5%;
+    position: relative;
+    color: white;
+    text-align: -webkit-center;
+    box-sizing: border-box;
+}
+.col{
+    display: grid;
+    text-align: start;
+    margin-right: 10px;
+}
+.col p{
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    line-height: 1.6;
+    font-size: 1rem;
+    font-weight: 400;
+    
+}
+.foot{
+    width: 75%;
+    display: flex;
+    padding-bottom:10%;
+    text-align-last: start;
+}
+.rocket{
+    display: flex;
+    margin-bottom: 20px;
+}
+.rocket img{
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}
+.us{
+    display: flex;
+    margin-top: 20px;
+}
+.us img{
+    width: 16px;
+    height: 16px;
+    margin-right: 10px;
+}
+h6{
+    font-weight: 100;
+    font-size: medium;
+    line-height: 1rem;
+}
+.a{
+    width: 120%;
+}
+.col-b {
+    padding-left: 60px;
+    display: grid;
+}
+
+.col-b h5{
+    line-height: 2rem;
+}
+.col-c {
+    padding-left: 80px;
+    display: grid;
+}
+
+.col-c h5{
+    line-height: 2rem;
+}
+.col-d{
+    padding-left: 50px;
+}
+.email{
+    border-radius: .5rem;
+    border-color: #fff;
+    font-size: 1rem;
+    box-shadow: none;
+    margin-right: 10px;
+    height: 3em;
+    padding-left: 10px;
+
+}
+.form{
+    margin-bottom: .5rem;
+    display: block;
+    margin-top: 1rem;
+}
+.themesberg{
+    display: inline-grid;
+    padding-bottom: 30px;
+}
+.themesberg img{
+    width: 25px;
+    height: 25px;
+    place-self: center;
+}
+.wrap{
+    display: flex;
+}
+.wrapping{
+    display: contents;
+}
+
+@media(max-width:1100px){
+    .col{
+        margin-right: auto;
+    }
+    .foot{
+        width: 90%;
+    }
+    .form .email{
+        width: 50%;
+        height: 40px;
+    }
+    .form .customButton{
+        width: 105px;
+        height: 40px;
+        padding-left: 12px;
+    }
+    p3{
+        line-height: 1rem;
+    }
+    .foot{
+        display: grid;
+    }
+}
+@media(max-width:710px){
+    .form .email{
+        width: 50%;
+        height: 35px;
+        font-size: 15px;
+        font-weight: bold;
+    }
+    .form .customButton{
+        width: 100px;
+        height: 30px;
+        font-size: 15px;
+        padding-bottom: 25px;
+    }
+    .col-c{
+        padding-left: 40px;
+    }
+    .col-b{
+        padding-left: 20px;
+    }
+    .col-d{
+        padding-left: 20px;
+    }
+}
+@media (max-width:600px){
+    .form .email{
+        width: 50%;
+        font-size: 12px;
+    }
+    .form .customButton{
+        width: 100px;
+        font-size: 12px;
+    }
+    .col-c{
+        padding-left: 15px;
+    }
+    .col-b{
+        padding-left: 15px;
+    }
+    .col-d{
+        padding-left: 15px;
+        text-align: left;
+    }
+}
+@media(max-width:560px){
+    .wrap{
+        display:block;
+    }
+    .wrapping{
+        display: flex; 
+    }
+}
