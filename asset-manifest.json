@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/rocket/static/css/main.51c671cc.chunk.css",
+    "main.js": "/rocket/static/js/main.a3d7616f.chunk.js",
+    "main.js.map": "/rocket/static/js/main.a3d7616f.chunk.js.map",
+    "runtime-main.js": "/rocket/static/js/runtime-main.ee573eb7.js",
+    "runtime-main.js.map": "/rocket/static/js/runtime-main.ee573eb7.js.map",
+    "static/css/2.383c0125.chunk.css": "/rocket/static/css/2.383c0125.chunk.css",
+    "static/js/2.2d657f9d.chunk.js": "/rocket/static/js/2.2d657f9d.chunk.js",
+    "static/js/2.2d657f9d.chunk.js.map": "/rocket/static/js/2.2d657f9d.chunk.js.map",
+    "static/js/3.8c2cc769.chunk.js": "/rocket/static/js/3.8c2cc769.chunk.js",
+    "static/js/3.8c2cc769.chunk.js.map": "/rocket/static/js/3.8c2cc769.chunk.js.map",
+    "index.html": "/rocket/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/rocket/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.51c671cc.chunk.css.map": "/rocket/static/css/main.51c671cc.chunk.css.map",
+    "static/js/2.2d657f9d.chunk.js.LICENSE.txt": "/rocket/static/js/2.2d657f9d.chunk.js.LICENSE.txt",
+    "static/media/app-analysis.819afb91.jpg": "/rocket/static/media/app-analysis.819afb91.jpg",
+    "static/media/light.dc082f60.svg": "/rocket/static/media/light.dc082f60.svg",
+    "static/media/messages.e750120b.jpg": "/rocket/static/media/messages.e750120b.jpg",
+    "static/media/mockup-presentation.d416766d.png": "/rocket/static/media/mockup-presentation.d416766d.png",
+    "static/media/navicon.9569500e.jpg": "/rocket/static/media/navicon.9569500e.jpg",
+    "static/media/overview.9231b309.jpg": "/rocket/static/media/overview.9231b309.jpg",
+    "static/media/settings.e6785e79.jpg": "/rocket/static/media/settings.e6785e79.jpg",
+    "static/media/single-message.01dc73f7.jpg": "/rocket/static/media/single-message.01dc73f7.jpg",
+    "static/media/tasks.c6871037.jpg": "/rocket/static/media/tasks.c6871037.jpg",
+    "static/media/terms.7855379f.jpg": "/rocket/static/media/terms.7855379f.jpg",
+    "static/media/themesberg.f3d7e257.svg": "/rocket/static/media/themesberg.f3d7e257.svg",
+    "static/media/traffic-sources.61224f8a.jpg": "/rocket/static/media/traffic-sources.61224f8a.jpg",
+    "static/media/transactions.b2c012dc.jpg": "/rocket/static/media/transactions.b2c012dc.jpg",
+    "static/media/united-states-of-america.c29455bd.svg": "/rocket/static/media/united-states-of-america.c29455bd.svg",
+    "static/media/users-list.18834d0d.jpg": "/rocket/static/media/users-list.18834d0d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee573eb7.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.2d657f9d.chunk.js",
+    "static/css/main.51c671cc.chunk.css",
+    "static/js/main.a3d7616f.chunk.js"
+  ]
+}
